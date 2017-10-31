@@ -24,7 +24,7 @@ I have found these files recently. File timestamps shows that I wrote them aroun
 
 - Change your JRE in Eclipse project as the ones of IBM Notes. See detailed information [here](http://dotnsf.blog.jp/archives/1067783810.html).
 
-- Add Notes.jar and websvc.jar as external JARs in your project.
+- Add Notes.jar and websvc.jar in your Notes folder(ex. C:\Notes\jvm\lib\ext) as external JARs in your project.
 
 - Edit dtopo.ini and set your names.nsf path following with n: 
 
